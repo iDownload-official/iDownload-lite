@@ -1,3 +1,4 @@
+![logo](/iDownload-lite-logo.ico)
 # iDownload-lite
 The reccomended TUI version of iDownload.
 
